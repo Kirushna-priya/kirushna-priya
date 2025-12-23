@@ -25,7 +25,7 @@ An AI Engineer building intelligent systems by learning, experimenting, and ship
 - Grow into a production-focused ML practitioner  
 
 ## 📫 Let’s Connect
-- LinkedIn: *add your link here*  
+- LinkedIn: https://www.linkedin.com/in/kirushna-priya 
 
 ---
 ✨ Learning in public. Building step by step. Staying curious.
