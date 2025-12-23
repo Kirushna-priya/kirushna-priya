@@ -1,16 +1,35 @@
 ## Hi there 👋
+I'm Kirushna Priya 👋
 
-<!--
-**Kirushna-priya/kirushna-priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An AI Engineer building intelligent systems by learning, experimenting, and shipping real projects.
 
-Here are some ideas to get you started:
+## 🧠 What I’m Working On
+- Machine Learning & Deep Learning fundamentals  
+- Applied AI projects with real-world use cases  
+- Understanding research papers and turning ideas into code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech I Use
+- Python  
+- NumPy, Pandas  
+- scikit-learn  
+- TensorFlow 
+
+## 🌱 Currently Learning
+- Model optimization & evaluation  
+- End-to-end AI workflows  
+- How AI systems move from notebooks to products  
+
+## 🎯 Goals
+- Build strong foundations in AI Engineering  
+- Create meaningful, impact-driven projects  
+- Grow into a production-focused ML practitioner  
+
+## 📫 Let’s Connect
+- LinkedIn: *add your link here*  
+
+---
+✨ Learning in public. Building step by step. Staying curious.
+
+
+
+
