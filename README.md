@@ -12,7 +12,12 @@ An AI Engineer building intelligent systems by learning, experimenting, and ship
 - Python  
 - NumPy, Pandas  
 - scikit-learn  
-- TensorFlow 
+- TensorFlow
+- Ollama
+- API calls to LLM
+- OpenAI client library
+- Gradio
+- AWS deployemnt
 
 ## 🌱 Currently Learning
 - Model optimization & evaluation  
