@@ -17,6 +17,8 @@ An AI Engineer building intelligent systems by learning, experimenting, and ship
 - API calls to LLM
 - OpenAI client library
 - Gradio
+- Docker
+- Flask
 - AWS deployemnt
 
 ## 🌱 Currently Learning
